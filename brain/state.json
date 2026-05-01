@@ -1,0 +1,62 @@
+{
+    "project": {
+        "name": "Geoland OS - Cinematic Pitch Deck",
+        "status": "MASTER_PLANNING",
+        "current_phase": "BLUEPRINTING",
+        "reference_url": "https://taotajima.jp/",
+        "project_goal": "Immersive startup presentation for VCs"
+    },
+    "analysis": {
+        "dom_structure": {
+            "intro": "Full-screen WebGL background with minimal navigation.",
+            "works_grid": "Overlay dynamic grid, varied thumbnail sizes, waving flag shaders.",
+            "project_detail": "Three-panel vertical split (Description, Video, PLAY CTA).",
+            "navigation": "JavaScript-handled SPA to maintain WebGL context."
+        },
+        "aesthetic": {
+            "color_palette": {
+                "primary": "#000000",
+                "accent": "#00aaff",
+                "text": "#ffffff",
+                "title_blue": "#38bdf8"
+            },
+            "typography": {
+                "font_family": "Jost",
+                "title_weight": 200,
+                "subtitle_weight": 400,
+                "body_weight": 200,
+                "title_case": "UPPERCASE"
+            },
+            "visual_language": "Super Premium, 30-50% opacity overlays, background video dominance."
+        },
+        "tech_stack": {
+            "main_framework": "Next.js",
+            "rendering": "Three.js / WebGL",
+            "animation": "GSAP / Framer Motion",
+            "styling": "Tailwind CSS (for layout) + Custom CSS (for effects)"
+        },
+        "responsive": {
+            "strategy": "Adaptive layout, reducing WebGL complexity on mobile, vertical stack for grids."
+        }
+    },
+    "user_brief": {
+        "context": "Geoland OS is an Agent-First Decision Infrastructure for global investments.",
+        "slides_count": 100,
+        "assets_location": "materiales/fotos y videos",
+        "rules": [
+            "All text in white",
+            "Jost typography strictly followed",
+            "No changing copy",
+            "Background media with overlays",
+            "Split large paragraphs into separate slides"
+        ]
+    },
+    "master_plan": {
+        "plan_md": "MASTER_PLAN.md",
+        "tickets": []
+    },
+    "development": {
+        "project_path": "output/geoland-presentation",
+        "build_status": "PENDING"
+    }
+}

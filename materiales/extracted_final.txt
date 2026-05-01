@@ -1,0 +1,301 @@
+﻿SLIDE 1 :
+OVERVIEW The world changed. Real estate didnâ€™t. 
+
+SLIDE 2 :
+El real estate global vale  USD 393,3 trillones   - el mayor depÃ³sito de riqueza del planeta -   
+
+SLIDE 3 :
+Cada aÃ±o se invierten entre  USD 700 a 900 billones  en real estate y  decenas de miles de millones  en farmland.  
+
+SLIDE 4 :
+Pero mÃ¡s del 90% de los inversores decide con informaciÃ³n incompleta .  
+
+SLIDE 5 :
+WASTING TIME AND MONEY IS NOT SMART.  
+
+SLIDE 6 :
+AdemÃ¡s, n o existe hasta hoy una forma simple de  comparar oportunidades entre paÃ­ses .  
+
+SLIDE 7 :
+Procesos manuales que toman  semanas o meses .  
+
+SLIDE 8 :
+Las mejores oportunidades se pierden por falta de datos integrados, lentitud y decisiones basadas en intuiciÃ³n.  
+
+SLIDE 9 :
+Smart,  is not guessing.  
+
+SLIDE 10 :
+Hubo un tiempo en que usar un ordenador requerÃ­a escribir comandos. Pantalla negra. CÃ³digo. Errores. Eso era DOS. El sistema era poderoso. Pero solo los expertos podÃ­an usarlo. 
+
+SLIDE 11 :
+Lo realmente revolucionario no fue eliminar la complejidad. Fue ocultarla detrÃ¡s de algo simple. Apple lo hizo con el diseÃ±o.  Microsoft lo hizo con Windows. La tecnologÃ­a siguiÃ³ siendo compleja. Pero la  experiencia  cambiÃ³.
+
+SLIDE 12 :
+Hoy, el real estate mueve trillones.  Y todavÃ­a funciona como en DOS. Excel interminables.  Datos fragmentados.  AnÃ¡lisis difÃ­ciles de integrar. Un mercado globalâ€¦ sin una inteligencia que lo conecte todo.
+
+SLIDE 13 :
+Hasta ahoraâ€¦
+
+SLIDE 14 :
+THE IDEA   
+
+SLIDE 15 :
+Presentamos GEOLAND   
+
+SLIDE 16 :
+La primera infraestructura global de inversiÃ³n en real estate y farmland impulsada por IA, que analiza y compara activos bajo un estÃ¡ndar unificado mediante scoring global profundo, visiÃ³n computacional y mÃ¡s de 200 variables para identificar la mejor inversiÃ³n.   
+
+SLIDE 17 :
+Analiza el mercado como  un equipo completo de analistas expertos  Comprende el objetivo del inversor  Entrega oportunidades  ya evaluadas, comparadas y priorizadas .  
+
+SLIDE 18 :
+No es un portal. No es un listado.  Es Infraestructura  global de decisiÃ³n impulsada por inteligencia agent-first.  
+
+SLIDE 19 :
+PARA EVALUAR EL MUNDO ENTERO BAJO UN MISMO STANDARD, EN SEGUNDOS.  
+
+SLIDE 20 :
+COMPETITIVE ADVANTAGE SMART IS WHEN TECHNOLOGY THINKS LIKE AN INVESTOR.  
+
+SLIDE 21 :
+Existen plataformas que cubren partes del problema. Pero ninguna ha construido la infraestructura para evaluar y comparar inversiones globalmente bajo un estÃ¡ndar unificado. GEOLAND es la primera en hacerlo.
+
+SLIDE 22 :
+Zillow / Idealista (portales â€” locales) â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘ Listings (marketplaces locales)  â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘ ComparaciÃ³n global  â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘ Multi-activo  â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘ Capa de decisiÃ³n   
+
+SLIDE 23 :
+HouseCanary / PriceHubble (AVMs â€” local / multi-paÃ­s fragmentado) â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘ ValoraciÃ³n automatizada  â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘ ComparaciÃ³n global  â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘ Multi-activo  â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘ Capa de decisiÃ³n
+
+SLIDE 24 :
+Mashvisor (anÃ¡lisis â€” EE.UU. / mercado Ãºnico) â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘ AnÃ¡lisis de inversiÃ³n  â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘ ComparaciÃ³n global  â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘ Multi-activo  â–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘ Capa de decisiÃ³n (bÃ¡sica)
+
+SLIDE 25 :
+EL GAP No existe una plataforma que permita: Comparar inversiones globales bajo un estÃ¡ndar unificado Integrar real estate y farmland en una misma decisiÃ³n Convertir datos en decisiones accionables
+
+SLIDE 26 :
+GEOLAND Infraestructura global de decisiÃ³n â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ ComparaciÃ³n global  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ Multi-activo (RE + Farmland)  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ IA aplicada a decisiÃ³n  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ Capa de decisiÃ³n unificada
+
+SLIDE 27 :
+No competimos con players existentes. Construimos la capa que hoy no existe.
+
+SLIDE 28 :
+El espacio de comparaciÃ³n multi-mercado, multi-activo (real estate + farmland) con IA generativa y agentes  estÃ¡ genuinamente vacÃ­o.  
+
+SLIDE 29 :
+THE SOLUTION SMART IS MAKING HARD DECISIONS SIMPLE.  
+
+SLIDE 30 :
+GEOLAND es la primera infraestructura global de decisiÃ³n para inversiones en real estate y farmland, basada en inteligencia agent-first.
+
+SLIDE 31 :
+Funciona como un equipo completo de analistas. 
+
+SLIDE 32 :
+Un solo lenguaje para todos los mercados del mundo.
+
+SLIDE 33 :
+Compara un campo en la Pampa con un piso en DubÃ¡i. Con la misma precisiÃ³n.
+
+SLIDE 34 :
+El primer comparador universal de activos.
+
+SLIDE 35 :
+Te permite i nvertir donde es rentable, no solamente en tu entorno.
+
+SLIDE 36 :
+SIMPLICITY IS CONTROLLED COMPLEXITY
+
+SLIDE 37 :
+Flaubert  - perfeccionÃ³ cada frase hasta hacer invisible la complejidad.
+
+SLIDE 38 :
+Einstein convirtiÃ³ la complejidad del universo en E = mcÂ².
+
+SLIDE 39 :
+Newton convirtiÃ³ el caos en leyes claras.
+
+SLIDE 40 :
+Steve Jobs â€” ocultÃ³ ingenierÃ­a compleja detrÃ¡s de una interfaz intuitiva.
+
+SLIDE 41 :
+Bill Gates â€” convirtiÃ³ comandos tÃ©cnicos en ventanas accesibles para millones.
+
+SLIDE 42 :
+ La simplicidad no elimina la complejidad. La organiza.  Eso es lo que hace Geoland. 
+
+SLIDE 43 :
+TARGET. Built for real decision-makers.   
+
+SLIDE 44 :
+Â¿QUIÃ‰NES USAN GEOLAND? Todos los que necesitan decidir  dÃ³nde invertir, desarrollar o expandirse , con datos reales y anÃ¡lisis global.
+
+SLIDE 45 :
+
+
+SLIDE 46 :
+RECURRENCIA Invertir es un proceso, no un evento  Los inversores comparan mÃºltiples oportunidades antes de decidir  Uso recurrente por naturaleza  Cada nuevo activo, mercado o escenario activa nuevas bÃºsquedas y anÃ¡lisis      
+
+SLIDE 47 :
+FRECUENCIA  DE USO Retail activo  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘ 2â€“8 veces al mes Fondos / developers  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘ Uso semanal / continuo Institucional / API  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘ Monitoreo permanente * Basado en uso de herramientas existentes hoy en dÃ­a y de nuestros beta testers      
+
+SLIDE 48 :
+USUARIOS ACTUALES CONTAMOS CON 20 Beta testers ACTIVOS De 6 PAÃSES diferentes Buena recurrencia y excelente aceptaciÃ³n.      
+
+SLIDE 49 :
+CIUDADES 
+
+SLIDE 50 :
+MADRID - MIAMI - BS AS - DUBAI 
+
+SLIDE 51 :
+Â¿Por quÃ© elegimos estar primero en estas ciudades? 
+
+SLIDE 52 :
+La selecciÃ³n de ciudades no fue aleatoria. Ha sido una  decisiÃ³n de ingenierÃ­a financiera . 
+
+SLIDE 53 :
+Test de estrÃ©s global.  Elegimos estas ciudades porque representan los escenarios mÃ¡s exigentes del mundo. Si funciona aquÃ­, funciona en cualquier mercado. Madrid  â€” complejidad regulatoria   Miami  â€” complejidad operativa   DubÃ¡i  â€” mÃ¡xima eficiencia   Buenos Aires  â€” mÃ¡xima inestabilidad 
+
+SLIDE 54 :
+MONETIZACIÃ“N Smart is building value before charging for it. 
+
+SLIDE 55 :
+Primero construimos la audiencia. DespuÃ©s monetizamos el valor.
+
+SLIDE 56 :
+FREEMIUM MASIVO Smart is growing fast.  Acceso gratuito global para acelerar la adopciÃ³n. Peroâ€¦con lÃ­mites de uso.
+
+SLIDE 57 :
+OBJETIVO:  Construir la mayor base posible de inversores activos.
+
+SLIDE 58 :
+El freemium limita y empuja al pago La conversiÃ³n ocurre de forma natural 
+
+SLIDE 59 :
+SuscripciÃ³n (SaaS â€” base de escala) â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ USD 49/mes Â· USD 450/aÃ±o Acceso a la plataforma para analizar y comparar inversiones globales â†’ modelo masivo y recurrente
+
+SLIDE 60 :
+Plan profesional / enterprise â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘ USD 1.490 â€“ 2.990 / aÃ±o Mayor profundidad de anÃ¡lisis y uso intensivo para inversores activos â†’ mayor valor por usuario (ARPU)  
+
+SLIDE 61 :
+AI Planning (premium on-demand)  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘ USD 99 â€“ 199 por proyecto EstructuraciÃ³n completa de inversiones con IA â†’ monetizaciÃ³n por decisiÃ³n   
+
+SLIDE 62 :
+Data &amp; API / White-label â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘ USD 5K â€“ 10K+ / aÃ±o IntegraciÃ³n del motor GEOLAND en bancos, fondos y plataformas â†’ capa de escala institucional    
+
+SLIDE 63 :
+EjecuciÃ³n (brokers) â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘â–‘â–‘â–‘ Fee por operaciÃ³n / lead ConexiÃ³n en el momento en que el inversor decide â†’ captura del valor final
+
+SLIDE 64 :
+VISIÃ“N DEL MODELO Smart is building the gateway to global investment Construimos escala con suscripciÃ³n, aumentamos el valor con anÃ¡lisis y capturamos el momento mÃ¡s rentable: la decisiÃ³n de inversiÃ³n.    
+
+SLIDE 65 :
+SMART IS BECOMING INDISPENSABLE    
+
+SLIDE 66 :
+ESCENARIO AÃ‘O 1
+
+SLIDE 67 :
+Mercado objetivo TAM global  50M â€“ 120M inversores activos  Real estate + farmland 
+
+SLIDE 68 :
+SAM digital  10M â€“ 48M usuarios  Inversores que ya usan herramientas digitales para analizar oportunidades 
+
+SLIDE 69 :
+CaptaciÃ³n inicial (AÃ±o 1) SOM estimado 0,02% â€“ 0,05% del SAM digital Usuarios registrados  3.000 â€“ 20.000 Usuarios pagos  200 â€“ 1.000 ConversiÃ³n esperada  2% â€“ 5% 
+
+SLIDE 70 :
+DistribuciÃ³n Plan SaaS  70% de los usuarios pagos Plan Professional  25% de los usuarios pagos  
+
+SLIDE 71 :
+ MonetizaciÃ³n â€” AÃ±o 1 Ingresos estimados AÃ±o 1 â‚¬130K â€“ â‚¬670K   
+
+SLIDE 72 :
+PROYECCIÃ“N DE INGRESOS AÃ‘O 2 â‚¬1.5M â€“ â‚¬3M ExpansiÃ³n global y activaciÃ³n de las capas de integraciÃ³n (API) y ejecuciÃ³n. AÃ‘O 3 â‚¬5M â€“ â‚¬12M+ Infraestructura operando a escala global, con monetizaciÃ³n completa de acceso, integraciÃ³n y ejecuciÃ³n. 
+
+SLIDE 73 :
+POR QUÃ‰ AHORA A real white space. Smart is building what doesnâ€™t exist yet.
+
+SLIDE 74 :
+GEOLAND SEARCH transforma un proceso lento, local y complejo  en una decisiÃ³n rÃ¡pida, global y basada en datos reales.
+
+SLIDE 75 :
+ No somos un portal. No somos solo un SaaS. Somos  infraestructura de decisiÃ³n .
+
+SLIDE 76 :
+GEOLAND is the first Agent-First Global Investment Decision Infrastructure. 
+
+SLIDE 77 :
+Â¿CÃ³mo sabemos que los resultados que logramos son buenos?
+
+SLIDE 78 :
+BACKTESTING  Hemos ejecutado backtesting sobre cientos de activos histÃ³ricos y el sistema identifica consistentemente oportunidades con retornos superiores al promedio del mercado.
+
+SLIDE 79 :
+ejemplos
+
+SLIDE 80 :
+Smart is making hard things simple.   Smart is saving time. And money.
+
+SLIDE 81 :
+   GEOLAND â€” The smartest way to invest.
+
+SLIDE 82 :
+MARKET RESEARCH  RESUMEN 
+
+SLIDE 83 :
+Market PropTech Global  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘ $36.5B (2024) â†’ $88.3B (2032) DigitalizaciÃ³n  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 90%+ Capa de decisiÃ³n  â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘â–‘ Fragmentada
+
+SLIDE 84 :
+GEOLAND Producto  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘ Infraestructura construida Backtesting  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ Validado IntenciÃ³n de pago  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆ 100% (beta)
+
+SLIDE 85 :
+PrecisiÃ³n de datos  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘ EstÃ¡ndar alto â€” base fiable para decisiones de inversiÃ³n  Go-to-market  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘ En marcha â€” entrada activa al mercado  Confianza en el sistema  â–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–ˆâ–‘â–‘â–‘â–‘ Validada â€” resultados consistentes (backtesting) La base es sÃ³lida, la entrada al mercado estÃ¡ en marcha y el sistema ya ha sido validado.
+
+SLIDE 86 :
+En un mundo lleno de oportunidades, la ventaja real es saber decidir bien.
+
+SLIDE 87 :
+TEAM
+
+SLIDE 88 :
+PATRICIO LETTIERI Head of AI Engineering, GEOLAND AI systems builder con 15+ aÃ±os de experiencia en anÃ¡lisis de datos y modelizaciÃ³n de decisiones para John Deere y Porsche. Especializado en arquitecturas multi-agente, procesamiento de datos no estructurados y pipelines de inteligencia escalables. En GEOLAND, es el builder y executor de la capa de AI, transformando la arquitectura en sistemas operativos que convierten datos globales en decisiones de inversiÃ³n en tiempo real.
+
+SLIDE 89 :
+JOSÃ‰ LUIS CURCIO Chief Agent-First AI Architect Publicista de origen, con mÃ¡s de 18 aÃ±os aplicando creatividad, visiÃ³n, innovaciÃ³n y desarrollo estratÃ©gico para construir marcas globales como Coca-Cola, Ford, Samsung y Mercedes-Benz. A lo largo de su trayectoria, combinÃ³ su experiencia en creatividad e innovaciÃ³n con un entendimiento directo del real estate y la lÃ³gica de inversiÃ³n, incorporado a travÃ©s de la empresa familiar. Esto lo llevÃ³ a especializarse en diseÃ±o de sistemas de decisiÃ³n e infraestructuras de inteligencia. En GEOLAND, lidera la visiÃ³n y define la arquitectura Agent-First del sistema, con un propÃ³sito claro: hacer que lo complejo se sienta simple.   
+
+SLIDE 90 :
+SOURCES
+
+SLIDE 91 :
+Sources &amp; Market References Global Real Estate &amp; Capital Markets  Savills â€” Global Real Estate Value Report  JLL â€” Global Capital Markets Outlook  CBRE â€” Global Investment Volumes  Knight Frank â€” The Wealth Report Farmland &amp; Agricultural Assets  FAO â€” Food and Agriculture Organization of the United Nations  USDA â€” Economic Research Service  NCREIF â€” Farmland Index PropTech, Data &amp; Investment Behavior  McKinsey â€” Global Real Estate &amp; Analytics Insights  PwC â€” Emerging Trends in Real Estate  Deloitte â€” PropTech &amp; Real Estate Analytics SaaS, AI &amp; Market Sizing  Bessemer Venture Partners â€” State of the Cloud  Andreessen Horowitz (a16z) â€” Market Sizing &amp; SaaS Playbooks  Y Combinator â€” Startup Library Valuation &amp; AI Companies  PitchBook â€” SaaS &amp; PropTech Valuation Multiples  CB Insights â€” AI &amp; PropTech Market Reports  Harvard Business Review Â· MIT Sloan â€” AI &amp; Decision-Making
+
+SLIDE 92 :
+VALORIZACIÃ“N ACTUAL
+
+SLIDE 93 :
+ Etapa:  Seed early stage / MVP - infraestructura funcional y en uso / Backtesting / Usuarios registrados usando activamente la infraestructura. Objetivo:  Perfeccionar el MVP, hacer un lanzamiento oficial, monetizar los usuarios y escalar.  ValorizaciÃ³n Pre-money estimada 2026:  USD 1.6 M - 2,0M  Basada en etapa del proyecto Benchmarks de start ups SaaS y Proptech en seed early stage. ingresos estimados aÃ±o 1 TamaÃ±o del mercado y escalabilidad global. 
+
+SLIDE 94 :
+ValorizaciÃ³n proyectada al final del AÃ±o 1 
+
+SLIDE 95 :
+ (post-revenue / post-tracciÃ³n) ValorizaciÃ³n proyectada: â‚¬5M â€“ â‚¬10M pre-money 
+
+SLIDE 96 :
+Â¿QUÃ‰ BUSCAMOS?   
+
+SLIDE 97 :
+ Capital buscado: USD 290.000 Equity ofrecido: 15% ValorizaciÃ³n post-money: USD 1.9M 
+
+SLIDE 98 :
+ USO DE LOS FONDOS 
+
+SLIDE 99 :
+ CampaÃ±a pre-lanzamiento Escalar ciudades cyber seguridad Perfeccionar y blindar la infraestructura  
+
+SLIDE 100 :
+SMART IS INVESTING BEFORE THE REST OF THE MARKET UNDERSTANDS IT.    JOIN US.
+
+

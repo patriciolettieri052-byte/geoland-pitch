@@ -1,0 +1,24 @@
+Que es Geoland? (ESTO NO VA EN LA PRESENTACIÓN ES SOLO CONTEXTO)
+Geoland OS no es una base de datos con filtros inteligentes. Es una Infraestructura de Decisión Agent-First. Hemos abstraído la complejidad del análisis institucional. Nuestro motor cognitivo asimila datos crudos, ejecuta triaje visual, aplica matemática financiera y emite dictámenes de riesgo de forma autónoma. El inversor no busca propiedades; interactúa con su ecosistema de agentes para calibrar estrategias, mientras el sistema orquesta la toma de decisiones financieras en segundo plano.
+
+
+Estética General:
+- Estéica Super Premium
+- Siempre con background de fotos o videos (están en la carpeta "fotos y videos")
+- Si se usa iconografía, solo muy premium y en blanco o negro.
+- Los títulos si están solos van centrados
+- Todos los backgrounds deben tener una capa de opacidad de entre 30% y 50% para que los textos se lean
+- Todos los textos siempre en blanco
+
+
+Reglas generales:
+- Los titulos en azul son los mas destacados
+- La negrita en frase única en diapositiva es solo es titulo
+- La negrita dentro de un parrafo de texto es texto más grande destado
+- Las diapositivas que tienen 3 parrafos o más debemos dividir cada parrafo en slides diferentes
+-En las diapositivas que es un autor + una frase, poner de fondo la foto de el autor
+- Si en alguna diapositiva aparece "Geoland Search" hay que borrar el "Search" queda solo "Geoland"
+- Desde la placa "Escenario año 1" las diapositivas son de mercado, podemos usar mezcla de textos con mapas e íconos.
+- No modificar nunca ni una palabra de títulos ni textos, respetar 100%
+- Siempre poco texto, nunca parrafos grandes, si son muy grandes separar en slides.
+- Tipografías: Títulos en Jost ExtraLight 200 mayúsculas. Subtitulos en Jost Regular 400 mayus/minus. Textos en Jost ExtraLight 200 mayus/minus.
