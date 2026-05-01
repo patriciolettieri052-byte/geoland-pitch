@@ -41,7 +41,7 @@ const Chapter: React.FC<ChapterProps> = ({ title, overline, text, backgroundMedi
   };
   
   // Custom cubic-bezier for a "premium" heavy feel
-  const transition = { duration: 1.2, ease: [0.22, 1, 0.36, 1] };
+  const transition = { duration: 1.2, ease: [0.22, 1, 0.36, 1] as const };
 
   // Variants for the focal shift (blur + scale)
   const bgVariants = {
@@ -62,7 +62,7 @@ const Chapter: React.FC<ChapterProps> = ({ title, overline, text, backgroundMedi
 
   const itemVariants = {
     initial: { opacity: 0, y: 40 },
-    animate: { opacity: 1, y: 0, transition: { duration: 0.8, ease: "easeOut" } }
+    animate: { opacity: 1, y: 0, transition: { duration: 0.8, ease: "easeOut" as const } }
   };
 
   return (
