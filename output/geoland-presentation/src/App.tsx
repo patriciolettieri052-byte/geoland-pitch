@@ -1,12 +1,15 @@
 import { useState, useEffect, useCallback, useRef } from 'react';
 import Chapter from './components/Chapter';
 import Logo from './components/Logo';
+import NavGrid from './components/NavGrid';
 import { slides } from './data/slides';
 import { AnimatePresence, motion } from 'framer-motion';
+import { Home } from 'lucide-react';
 
 function App() {
   const [currentIdx, setCurrentIdx] = useState(-1); // -1 for Intro
   const [isAnimating, setIsAnimating] = useState(false);
+  const [showNavGrid, setShowNavGrid] = useState(false);
   const touchStart = useRef<number | null>(null);
 
   const nextSlide = useCallback(() => {
@@ -50,8 +53,12 @@ function App() {
     };
 
     const handleKeyDown = (e: KeyboardEvent) => {
+      if (e.key === 'Escape') setShowNavGrid(false);
+      if (showNavGrid) return;
+      
       if (e.key === 'ArrowDown' || e.key === 'ArrowRight' || e.key === ' ') nextSlide();
       if (e.key === 'ArrowUp' || e.key === 'ArrowLeft') prevSlide();
+      if (e.key === 'h' || e.key === 'H' || e.key === 'm' || e.key === 'M') setShowNavGrid(true);
     };
 
     window.addEventListener('wheel', handleWheel);
@@ -65,10 +72,36 @@ function App() {
       window.removeEventListener('touchend', handleTouchEnd);
       window.removeEventListener('keydown', handleKeyDown);
     };
-  }, [nextSlide, prevSlide]);
+  }, [nextSlide, prevSlide, showNavGrid]);
 
   return (
     <main className="fixed inset-0 bg-black overflow-hidden select-none w-screen h-screen">
+      {/* Navigation Toggle Button - Bottom Left */}
+      <button 
+        onClick={() => setShowNavGrid(true)}
+        className="fixed bottom-8 left-10 z-[60] w-12 h-12 flex items-center justify-center group"
+      >
+        <div className="absolute inset-0 bg-white/5 rounded-full scale-0 group-hover:scale-100 transition-transform duration-500 backdrop-blur-sm border border-white/10" />
+        <Home 
+          className="w-6 h-6 relative z-10 text-white opacity-30 group-hover:opacity-100 transition-all duration-500" 
+          strokeWidth={1.5}
+        />
+        <span className="absolute left-full ml-4 whitespace-nowrap text-[10px] tracking-[0.3em] font-jost font-light text-white opacity-0 group-hover:opacity-40 transition-opacity duration-500 uppercase">
+          Índice
+        </span>
+      </button>
+
+      {/* Navigation Grid Overlay */}
+      <NavGrid 
+        isOpen={showNavGrid}
+        onClose={() => setShowNavGrid(false)}
+        onSelect={(idx) => {
+          setCurrentIdx(idx);
+          setShowNavGrid(false);
+        }}
+        currentIndex={currentIdx}
+      />
+
       <AnimatePresence mode="wait">
         {currentIdx === -1 && (
           <motion.div

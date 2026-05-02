@@ -17,7 +17,7 @@ interface ChapterProps {
   align?: "left" | "center" | "right";
 }
 
-const Chapter: React.FC<ChapterProps> = ({ title, overline, text, backgroundMedia, isTitleBlue, overlayOpacity, isBold, isItalic, titleSize, variant, align = "center" }) => {
+const Chapter: React.FC<ChapterProps> = ({ id, title, overline, text, backgroundMedia, isTitleBlue, overlayOpacity, isBold, isItalic, titleSize, variant, align = "center" }) => {
   const isVideo = backgroundMedia?.toLowerCase().endsWith('.mp4');
   
   const parseBarras = (text: string) => {
@@ -216,6 +216,13 @@ const Chapter: React.FC<ChapterProps> = ({ title, overline, text, backgroundMedi
           </>
         )}
       </motion.div>
+
+      {/* Slide ID - Bottom Right */}
+      <div className="absolute bottom-8 right-10 z-50 pointer-events-none select-none opacity-100">
+        <span className="text-white font-jost text-[10px] md:text-xs tracking-[0.4em] font-extralight uppercase">
+          {String(id).padStart(2, '0')}
+        </span>
+      </div>
     </div>
   );
 };
