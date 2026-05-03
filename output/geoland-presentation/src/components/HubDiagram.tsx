@@ -42,35 +42,31 @@ const HubDiagram: React.FC = () => {
         </div>
       </motion.div>
 
-      {/* SVG Connector Rays */}
-      <svg className="absolute inset-0 z-10 w-full h-full pointer-events-none">
-        <defs>
-          <linearGradient id="rayGradient" x1="0%" y1="0%" x2="100%" y2="0%">
-            <stop offset="0%" stopColor="white" stopOpacity="0.3" />
-            <stop offset="100%" stopColor="white" stopOpacity="0" />
-          </linearGradient>
-        </defs>
+      {/* Connector Rays */}
+      <div className="absolute inset-0 z-10 flex items-center justify-center pointer-events-none overflow-hidden">
         {items.map((_, i) => {
           const angle = (i * (360 / items.length)) - 90;
-          const radian = (angle * Math.PI) / 180;
-          
-          // For simplicity, we use center (50%, 50%) as origin and rotate a line
           return (
-            <motion.line
+            <div 
               key={i}
-              x1="50%"
-              y1="50%"
-              x2={`${50 + Math.cos(radian) * 40}%`}
-              y2={`${50 + Math.sin(radian) * 40}%`}
-              stroke="url(#rayGradient)"
-              strokeWidth="1"
-              initial={{ pathLength: 0, opacity: 0 }}
-              animate={{ pathLength: 1, opacity: 1 }}
-              transition={{ delay: 0.5 + (i * 0.1), duration: 1.2, ease: "easeOut" }}
-            />
+              className="absolute h-px origin-left"
+              style={{ 
+                width: `${radius}px`,
+                transform: `rotate(${angle}deg)`,
+                left: '50%',
+                top: '50%',
+              }}
+            >
+              <motion.div 
+                initial={{ scaleX: 0, opacity: 0 }}
+                animate={{ scaleX: 1, opacity: 0.2 }}
+                transition={{ delay: 0.5 + (i * 0.1), duration: 1.2, ease: "easeOut" }}
+                className="w-full h-full bg-gradient-to-r from-white via-white/50 to-transparent origin-left"
+              />
+            </div>
           );
         })}
-      </svg>
+      </div>
 
       {/* Radial Items */}
       <div className="absolute inset-0 z-20 pointer-events-none">
