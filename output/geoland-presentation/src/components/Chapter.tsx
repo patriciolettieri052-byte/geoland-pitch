@@ -153,7 +153,7 @@ const Chapter: React.FC<ChapterProps> = ({ id, title, overline, text, background
         ) : variant === 'portada' ? (
           <Logo intro />
         ) : variant === 'portada81' ? (
-          <Logo intro subtitle={text} />
+          <Logo intro subtitle={text} subtitleClassName="!mt-[17px]" />
         ) : variant === 'portadafinal' ? (
           <Logo intro subtitle="JOIN US" />
         ) : variant === 'apertura' ? (
@@ -219,13 +219,14 @@ const Chapter: React.FC<ChapterProps> = ({ id, title, overline, text, background
                 variants={itemVariants}
                 className={`${variant === 'subtitulo' ? 'text-xl md:text-3xl italic' : (titleSize || 'text-4xl md:text-6xl')} mb-8 tracking-[0.2em] uppercase ${isBold || variant === 'titulo' ? 'font-bold' : 'font-extralight'} ${isItalic && variant !== 'subtitulo' ? 'italic' : ''} ${isTitleBlue ? 'text-blue-400' : 'text-white'}`}
               >
-                {title}
+                <span dangerouslySetInnerHTML={{ __html: title }} />
               </motion.h2>
             )}
             {text && (
               <motion.div 
                 variants={itemVariants}
-                className={`text-lg md:text-2xl leading-relaxed text-white/80 max-w-[1000px] ${align === 'left' ? 'mr-auto' : align === 'right' ? 'ml-auto' : 'mx-auto'} ${isBold ? 'font-bold' : ''} ${isItalic ? 'italic' : ''}`}
+                className={`text-lg md:text-2xl leading-relaxed text-white/80 w-full ${align === 'left' ? 'mr-auto' : align === 'right' ? 'ml-auto' : 'mx-auto'} ${isBold ? 'font-bold' : ''} ${isItalic ? 'italic' : ''}`}
+                style={{ maxWidth: maxWidth || '1000px' }}
               >
                 <div dangerouslySetInnerHTML={{ __html: text }} />
               </motion.div>

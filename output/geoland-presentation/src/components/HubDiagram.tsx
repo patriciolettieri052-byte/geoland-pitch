@@ -99,9 +99,9 @@ const HubDiagram: React.FC = () => {
                 {/* Label */}
                 <motion.span
                   initial={{ opacity: 0 }}
-                  animate={{ opacity: 0.6 }}
+                  animate={{ opacity: 1 }}
                   transition={{ delay: 1 + (i * 0.1), duration: 0.8 }}
-                  className="text-[0.6rem] md:text-[0.7rem] uppercase tracking-[0.2em] font-light leading-tight text-white px-2"
+                  className="text-[0.6rem] md:text-[0.7rem] uppercase tracking-[0.2em] font-bold leading-tight text-white px-2"
                 >
                   {item.label}
                 </motion.span>

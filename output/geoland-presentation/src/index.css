@@ -76,4 +76,7 @@
     @apply uppercase font-bold;
     font-size: 13pt;
   }
+  .estilo-subtitulo {
+    @apply text-xl md:text-3xl italic tracking-[0.2em] uppercase font-extralight;
+  }
 }
