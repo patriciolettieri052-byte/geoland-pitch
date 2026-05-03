@@ -17,10 +17,9 @@ interface ChapterProps {
   variant?: "subtitulo" | "titulo" | "portada" | "portada81" | "portadafinal" | "texto" | "barras" | "apertura" | "apertura2" | "hub";
   align?: "left" | "center" | "right";
   maxWidth?: string;
-  customPadding?: string;
 }
 
-const Chapter: React.FC<ChapterProps> = ({ id, title, overline, text, backgroundMedia, isTitleBlue, overlayOpacity, isBold, isItalic, titleSize, variant, align = "center", maxWidth, customPadding }) => {
+const Chapter: React.FC<ChapterProps> = ({ id, title, overline, text, backgroundMedia, isTitleBlue, overlayOpacity, isBold, isItalic, titleSize, variant, align = "center", maxWidth }) => {
   const isVideo = backgroundMedia?.toLowerCase().endsWith('.mp4');
   
   const parseBarras = (text: string) => {

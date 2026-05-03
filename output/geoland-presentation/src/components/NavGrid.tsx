@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { slides } from '../data/slides';
+import { slides, SlideData } from '../data/slides';
 import { ChevronLeft, ChevronRight, X } from 'lucide-react';
 
 interface NavGridProps {
@@ -10,9 +10,13 @@ interface NavGridProps {
   currentIndex: number;
 }
 
+interface NavSlide extends Partial<SlideData> {
+  index: number;
+}
+
 const SLIDES_PER_PAGE = 15;
 
-const NavItem: React.FC<{ slide: any; index: number; isActive: boolean; onSelect: (idx: number) => void }> = ({ slide, index, isActive, onSelect }) => {
+const NavItem: React.FC<{ slide: NavSlide; index: number; isActive: boolean; onSelect: (idx: number) => void }> = ({ slide, index, isActive, onSelect }) => {
   const [isLoaded, setIsLoaded] = useState(false);
   const isVideo = slide.backgroundMedia?.toLowerCase().endsWith('.mp4');
 
@@ -89,6 +93,7 @@ const NavGrid: React.FC<NavGridProps> = ({ isOpen, onClose, onSelect, currentInd
   useEffect(() => {
     if (isOpen) {
       const pageOfCurrent = Math.floor((currentIndex + 1) / SLIDES_PER_PAGE);
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setCurrentPage(pageOfCurrent);
       document.body.style.overflow = 'hidden';
     } else {
