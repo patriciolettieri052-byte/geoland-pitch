@@ -1,6 +1,7 @@
 import React from 'react';
 import { motion } from 'framer-motion';
 import Logo from './Logo';
+import HubDiagram from './HubDiagram';
 
 interface ChapterProps {
   id: number;
@@ -13,11 +14,13 @@ interface ChapterProps {
   isItalic?: boolean;
   overline?: string;
   titleSize?: string;
-  variant?: "subtitulo" | "titulo" | "portada" | "portada81" | "portadafinal" | "texto" | "barras" | "apertura" | "apertura2";
+  variant?: "subtitulo" | "titulo" | "portada" | "portada81" | "portadafinal" | "texto" | "barras" | "apertura" | "apertura2" | "hub";
   align?: "left" | "center" | "right";
+  maxWidth?: string;
+  customPadding?: string;
 }
 
-const Chapter: React.FC<ChapterProps> = ({ id, title, overline, text, backgroundMedia, isTitleBlue, overlayOpacity, isBold, isItalic, titleSize, variant, align = "center" }) => {
+const Chapter: React.FC<ChapterProps> = ({ id, title, overline, text, backgroundMedia, isTitleBlue, overlayOpacity, isBold, isItalic, titleSize, variant, align = "center", maxWidth, customPadding }) => {
   const isVideo = backgroundMedia?.toLowerCase().endsWith('.mp4');
   
   const parseBarras = (text: string) => {
@@ -106,10 +109,23 @@ const Chapter: React.FC<ChapterProps> = ({ id, title, overline, text, background
         variants={containerVariants}
         initial="initial"
         animate="animate"
-        className={`relative z-20 w-full max-w-[1045px] px-8 md:px-[10%] flex flex-col ${align === 'left' ? 'items-start text-left' : align === 'right' ? 'items-end text-right' : 'items-center text-center'}`}
+        className={`relative z-20 w-full px-8 flex flex-col ${align === 'left' ? 'items-start text-left' : align === 'right' ? 'items-end text-right' : 'items-center text-center'}`}
+        style={{ 
+          maxWidth: maxWidth || '1045px',
+          paddingLeft: align === 'left' ? '50px' : undefined,
+          paddingRight: align === 'right' ? '50px' : undefined
+        }}
       >
         {variant === 'barras' ? (
-          <div className="w-full max-w-[700px] mx-auto space-y-12 py-8">
+          <div className="w-full max-w-[1000px] mx-auto space-y-12 py-8">
+            {title && (
+              <motion.div 
+                variants={itemVariants}
+                className="title2 text-center mb-12 !text-white"
+              >
+                {title}
+              </motion.div>
+            )}
             {parseBarras(text).map((item, idx) => (
               <div key={idx} className="group flex flex-col space-y-3">
                 <div className="flex justify-between items-end opacity-0 animate-fade-in" style={{ animationDelay: `${idx * 0.1 + 0.4}s`, animationFillMode: 'forwards' }}>
@@ -195,6 +211,8 @@ const Chapter: React.FC<ChapterProps> = ({ id, title, overline, text, background
               </motion.div>
             )}
           </>
+        ) : variant === 'hub' ? (
+          <HubDiagram />
         ) : (
           <>
             {title && (
@@ -208,7 +226,7 @@ const Chapter: React.FC<ChapterProps> = ({ id, title, overline, text, background
             {text && (
               <motion.div 
                 variants={itemVariants}
-                className={`text-lg md:text-2xl leading-relaxed text-white/80 max-w-[870px] mx-auto ${isBold ? 'font-bold' : ''} ${isItalic ? 'italic' : ''}`}
+                className={`text-lg md:text-2xl leading-relaxed text-white/80 max-w-[1000px] ${align === 'left' ? 'mr-auto' : align === 'right' ? 'ml-auto' : 'mx-auto'} ${isBold ? 'font-bold' : ''} ${isItalic ? 'italic' : ''}`}
               >
                 <div dangerouslySetInnerHTML={{ __html: text }} />
               </motion.div>

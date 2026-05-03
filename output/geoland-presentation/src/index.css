@@ -71,4 +71,9 @@
   .animate-fade-in {
     animation: fadeIn 1s ease-out forwards;
   }
+  .title2 {
+    font-family: 'Inter', sans-serif;
+    @apply uppercase font-bold;
+    font-size: 13pt;
+  }
 }

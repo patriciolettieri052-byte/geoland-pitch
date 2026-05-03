@@ -21,14 +21,14 @@ const Logo: React.FC<{ intro?: boolean; subtitle?: string }> = ({ intro, subtitl
           }} 
         />
       </div>
-      {intro && (
+      {intro && subtitle && (
         <motion.p 
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ delay: 1, duration: 1 }}
           className="mt-8 text-[0.6rem] md:text-[0.8rem] uppercase tracking-[0.5em] font-extralight text-white/70 text-center px-4"
         >
-          {subtitle || "Agent-First Decision Infrastructure"}
+          {subtitle}
         </motion.p>
       )}
     </motion.div>
