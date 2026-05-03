@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { slides, SlideData } from '../data/slides';
+import { slides } from '../data/slides';
+import type { SlideData } from '../data/slides';
 import { ChevronLeft, ChevronRight, X } from 'lucide-react';
 
 interface NavGridProps {
@@ -10,7 +11,8 @@ interface NavGridProps {
   currentIndex: number;
 }
 
-interface NavSlide extends Partial<SlideData> {
+interface NavSlide extends Omit<Partial<SlideData>, 'id'> {
+  id: number | string;
   index: number;
 }
 
