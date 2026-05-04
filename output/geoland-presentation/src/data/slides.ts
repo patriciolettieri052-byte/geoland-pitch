@@ -1,4 +1,4 @@
-export interface SlideData { id: number; title?: string; overline?: string; text: string; backgroundMedia: string; isTitleBlue?: boolean; overlayOpacity?: number; isBold?: boolean; isItalic?: boolean; titleSize?: string; variant?: "subtitulo" | "titulo" | "portada" | "portada81" | "portadafinal" | "texto" | "barras" | "apertura" | "apertura2" | "hub"; align?: "left" | "center" | "right"; maxWidth?: string; }
+export interface SlideData { id: number; title?: string; overline?: string; text: string; backgroundMedia: string; isTitleBlue?: boolean; overlayOpacity?: number; isBold?: boolean; isItalic?: boolean; titleSize?: string; variant?: "subtitulo" | "titulo" | "portada" | "portada81" | "portadafinal" | "texto" | "barras" | "apertura" | "apertura2" | "hub" | "backtest-stats" | "backtest-cities" | "numeric" | "business-units"; align?: "left" | "center" | "right"; maxWidth?: string; ctaUrl?: string; ctaText?: string; }
 
 export const slides: SlideData[] = [
   { id: 2, variant: "apertura", overline: "The", title: "OVERVIEW", text: "The world changed. Real estate didn't.", backgroundMedia: "", overlayOpacity: 0 },
